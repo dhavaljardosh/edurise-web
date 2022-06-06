@@ -3,7 +3,7 @@ import { Popover, Transition } from "@headlessui/react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
 
 const navigation = [
-  { name: "Edurise", href: "/edurise-web" },
+  { name: "Edurise", href: "/edurise-web/" },
   { name: "Social", href: "/edurise-web/social" },
   { name: "About", href: "/edurise-web/about" },
   { name: "Projects", href: "/edurise-web/projects" },
