@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 import About from "./components/About";
 
 let routes = (
-  <Router basename="/edurise-web">
+  <Router>
     <Routes>
       <Route exact path="/edurise-web" element={<Landing />} />
       <Route exact path="/edurise-web/projects" element={<Projects />} />
