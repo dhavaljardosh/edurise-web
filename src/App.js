@@ -1,6 +1,6 @@
 import "./App.css";
 import Landing from "./components/Landing";
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Projects from "./components/Projects";
 import Social from "./components/Social";
 import Contact from "./components/Contact";
