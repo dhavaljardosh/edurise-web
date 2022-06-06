@@ -3,11 +3,11 @@ import { Popover, Transition } from "@headlessui/react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
 
 const navigation = [
-  { name: "Edurise", href: "/" },
-  { name: "Social", href: "/social" },
-  { name: "About", href: "/about" },
-  { name: "Projects", href: "/projects" },
-  { name: "Contact us", href: "contact" },
+  { name: "Edurise", href: "/edurise-web/" },
+  { name: "Social", href: "/edurise-web/social" },
+  { name: "About", href: "/edurise-web/about" },
+  { name: "Projects", href: "/edurise-web/projects" },
+  { name: "Contact us", href: "/edurise-web/contact" },
 ];
 
 export default function Header() {

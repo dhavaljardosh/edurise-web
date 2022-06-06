@@ -9,11 +9,12 @@ import About from "./components/About";
 let routes = (
   <Router>
     <Routes>
-      <Route exact path="/" element={<Landing />} />
-      <Route exact path="/projects" element={<Projects />} />
-      <Route exact path="/social" element={<Social />} />
-      <Route exact path="/contact" element={<Contact />} />
-      <Route exact path="/about" element={<About />} />
+      <Route exact path="/edurise-web/" element={<Landing />} />
+      <Route exact path="/edurise-web/projects" element={<Projects />} />
+      <Route exact path="/edurise-web/social" element={<Social />} />
+      <Route exact path="/edurise-web/contact" element={<Contact />} />
+      <Route exact path="/edurise-web/about" element={<About />} />
+      <Route path="*" element={<h1>Oops...</h1>} />
     </Routes>
   </Router>
 );
