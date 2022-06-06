@@ -2,7 +2,7 @@
   "name": "edurise-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dhavaljardosh.github.io/edurise-web/",
+  "homepage": "https://dhavaljardosh.github.io/edurise-web",
   "dependencies": {
     "@headlessui/react": "^1.6.4",
     "@heroicons/react": "^1.0.6",
