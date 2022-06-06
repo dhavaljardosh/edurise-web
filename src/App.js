@@ -9,7 +9,7 @@ import About from "./components/About";
 let routes = (
   <Router>
     <Routes>
-      <Route exact path="/edurise-web/" element={<Landing />} />
+      <Route exact path="/edurise-web" element={<Landing />} />
       <Route exact path="/edurise-web/projects" element={<Projects />} />
       <Route exact path="/edurise-web/social" element={<Social />} />
       <Route exact path="/edurise-web/contact" element={<Contact />} />
