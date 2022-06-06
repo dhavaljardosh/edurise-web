@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/edurise-web/static/css/main.3a80778f.css",
-    "main.js": "/edurise-web/static/js/main.88418e70.js",
+    "main.js": "/edurise-web/static/js/main.b9e764d4.js",
     "index.html": "/edurise-web/index.html",
     "main.3a80778f.css.map": "/edurise-web/static/css/main.3a80778f.css.map",
-    "main.88418e70.js.map": "/edurise-web/static/js/main.88418e70.js.map"
+    "main.b9e764d4.js.map": "/edurise-web/static/js/main.b9e764d4.js.map"
   },
   "entrypoints": [
     "static/css/main.3a80778f.css",
-    "static/js/main.88418e70.js"
+    "static/js/main.b9e764d4.js"
   ]
 }
